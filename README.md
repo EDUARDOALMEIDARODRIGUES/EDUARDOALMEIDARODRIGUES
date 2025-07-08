@@ -5,7 +5,8 @@
 <h2>Linguagens e Tecnologis</h2>
 que eu domino
 <ul>
-  <li>⚫️ TypeScript</li>
+  <li>⚫️ TypeScript
+  <img src="png-transparent-typescript-plain-logo-icon-thumbnail.png"</li>
   <li>🔴 HTML</li>
   <li>🔵 CSS </li>
   <li>🔵 Tailwind </li>

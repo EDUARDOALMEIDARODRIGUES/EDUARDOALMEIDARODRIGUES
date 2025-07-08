@@ -6,7 +6,7 @@
 que eu domino
 <ul>
   <li>⚫️ TypeScript
-  <img src="png-transparent-typescript-plain-logo-icon-thumbnail.png"</li>
+  <img src="png-transparent-typescript-hd-logo-thumbnail.png" width="10px"/></li>
   <li>🔴 HTML</li>
   <li>🔵 CSS </li>
   <li>🔵 Tailwind </li>

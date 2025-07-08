@@ -2,7 +2,7 @@
 
 <h1>Programador FullStack</h1>
 
-##Linguagens e Tecnologis
+<h2>Linguagens e Tecnologis<h2></h2>
 <p>que eu domino</p>
 <ul>
   <li>⚫️ TypeScript</li>

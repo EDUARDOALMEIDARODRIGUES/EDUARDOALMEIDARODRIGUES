@@ -2,8 +2,8 @@
 
 <h1>Programador FullStack</h1>
 
-<h2>Linguagens e Tecnologis<h2></h2>
-<p>que eu domino</p>
+<h2>Linguagens e Tecnologis</h2>
+que eu domino
 <ul>
   <li>⚫️ TypeScript</li>
   <li>🔴 HTML</li>

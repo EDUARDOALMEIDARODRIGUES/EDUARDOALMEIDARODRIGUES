@@ -4,6 +4,7 @@
 
 <h2>Linguagens e Tecnologis</h2>
 que eu domino
+
 |TypeScript | Second Header |
 | ------------- | ------------- |
 | <img src="png-transparent-typescript-hd-logo-thumbnail.png" width="60px">  | Content Cell  |

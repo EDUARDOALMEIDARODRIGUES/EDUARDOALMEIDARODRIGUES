@@ -4,17 +4,9 @@
 
 <h2>Linguagens e Tecnologis</h2>
 que eu domino
-<ul>
-  <div>
-    <li>⚫️ TypeScript</li>
-    <img src="png-transparent-typescript-hd-logo-thumbnail.png" width="50px"/>
-  </div>
-  <li>🔴 HTML</li>
-  <li>🔵 CSS </li>
-  <li>🔵 Tailwind </li>
-  <li>🔵 Bootstrap</li>
-  <li>🟡 Git </li>
-</ul>
+|TypeScript | Second Header |
+| ------------- | ------------- |
+| <img src="png-transparent-typescript-hd-logo-thumbnail.png" width="60px">  | Content Cell  |
 <!--
 **EDUARDOALMEIDARODRIGUES/EDUARDOALMEIDARODRIGUES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

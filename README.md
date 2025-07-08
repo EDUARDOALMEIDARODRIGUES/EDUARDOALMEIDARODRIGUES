@@ -1,5 +1,17 @@
 ## MESTRE ⚡
 
+<h1>Programador FullStack</h1>
+
+##Linguagens e Tecnologis
+<p>que eu domino</p>
+<ul>
+  <li>⚫️ TypeScript</li>
+  <li>🔴 HTML</li>
+  <li>🔵 CSS </li>
+  <li>🔵 Tailwind </li>
+  <li>🔵 Bootstrap</li>
+  <li>🟡 Git </li>
+</ul>
 <!--
 **EDUARDOALMEIDARODRIGUES/EDUARDOALMEIDARODRIGUES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

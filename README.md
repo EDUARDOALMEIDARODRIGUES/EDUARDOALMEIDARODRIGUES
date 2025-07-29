@@ -9,13 +9,13 @@
 
 |TypeScript | HTML | CSS | React | tailwind | Bootstrap | GIT | JAVA |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |  ------------- | ------------- |
-| <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" width="60px">  | <img src="imagem_2025-07-08_153833241-removebg-preview.png" width="60px"> | <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png" width="60px"> | <img src="https://images.seeklogo.com/logo-png/48/2/react-logo-png_seeklogo-480571.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="60px"> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60px"> |
+| <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" width="60px">  | <img src="imagem_2025-07-08_153833241-removebg-preview.png" width="60px"> | <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png" width="60px"> | <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="90px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="60px"> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60px"> |
 
 📝Que gostaria de dominar e conhecer
 
 | PHP | Laravel | Spring boot | SQL / banco de Dados|
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="imagem_2025-07-08_220405647.png" width="60px"> | <img src="imagem_2025-07-08_221549857.png" width="60px"> | <img src="imagem_2025-07-08_220605842.png" width="60px"> | <img src="imagem_2025-07-08_220707254.png" width="120px">
+| <img src="https://www.brandlogopng.com/files/logo/php/php-language-logo-hd-png-image-download-baby-elephant-clipart-qs6r.png" width="80px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="60px"> | <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" width="120px">
 
 
 <!--

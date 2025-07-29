@@ -9,7 +9,7 @@
 
 |TypeScript | HTML | CSS | React | tailwind | Bootstrap | GIT | JAVA |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |  ------------- | ------------- |
-| <img src="png-transparent-typescript-hd-logo-thumbnail.png" width="60px">  | <img src="imagem_2025-07-08_153833241-removebg-preview.png" width="60px"> | <img src="imagem_2025-07-08_154237406.png" width="60px"> | <img src="imagem_2025-07-08_154506628.png" width="60px"> | <img src="imagem_2025-07-08_154337538.png" width="60px"> | <img src="imagem_2025-07-08_154426060.png" width="60px"> | <img src="imagem_2025-07-08_161044886.png" width="60px"> | <img src="imagem_2025-07-08_220500815.png" width="60px"> |
+| <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" width="60px">  | <img src="imagem_2025-07-08_153833241-removebg-preview.png" width="60px"> | <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png" width="60px"> | <img src="imagem_2025-07-08_154506628.png" width="60px"> | <img src="imagem_2025-07-08_154337538.png" width="60px"> | <img src="imagem_2025-07-08_154426060.png" width="60px"> | <img src="imagem_2025-07-08_161044886.png" width="60px"> | <img src="imagem_2025-07-08_220500815.png" width="60px"> |
 
 📝Que gostaria de dominar e conhecer
 

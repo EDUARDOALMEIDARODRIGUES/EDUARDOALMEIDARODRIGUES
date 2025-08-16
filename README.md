@@ -21,10 +21,13 @@
 | <img src="https://www.brandlogopng.com/files/logo/php/php-language-logo-hd-png-image-download-baby-elephant-clipart-qs6r.png" width="80px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="60px"> | <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" width="120px">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=EDUARDOALMEIDARODRIGUES&show_icons=true&theme=gruvbox"/>
-<a href="https://github.com/EDUARDOALMEIDARODRIGUES/convoychat">
-  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDOALMEIDARODRIGUES&layout=compact&show_icons=true&theme=gruvbox&langs_count=8&card_width=320" />
+<a href="https://github.com/EDUARDOALMEIDARODRIGUES/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=EDUARDOALMEIDARODRIGUES&show_icons=true&theme=gruvbox" />
 </a>
+<a href="https://github.com/EDUARDOALMEIDARODRIGUES/convoychat">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDOALMEIDARODRIGUES&layout=compact&show_icons=true&theme=gruvbox&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **EDUARDOALMEIDARODRIGUES/EDUARDOALMEIDARODRIGUES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

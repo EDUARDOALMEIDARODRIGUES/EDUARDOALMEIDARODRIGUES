@@ -1,6 +1,6 @@
 ## MESTRE ⚡
 
-<h1 align="center">Programador FullStack</h1>
+<h1 align="center">Programador Web</h1>
 
   Estudante de Desenvolvimento de Sistema, desejo dominar as tecnologias relacionadas a programação, atualmente estudo as principais tecnologia relacionadas a programação de site e desenvolvimento web. Futuramente desejo estudar tecnologias ralcionadas a desenvolvimento Mobile, programção App. No IFMS estudamos o back-end e front-end como, banco de dados, criação de paginas HTML e estilização CSS, trabalhando com framework de CSS.
 

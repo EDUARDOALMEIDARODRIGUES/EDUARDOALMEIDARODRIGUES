@@ -22,10 +22,10 @@
 
 
 <a href="https://github.com/EDUARDOALMEIDARODRIGUES/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=EDUARDOALMEIDARODRIGUES&show_icons=true&theme=gruvbox" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=EDUARDOALMEIDARODRIGUES&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/EDUARDOALMEIDARODRIGUES/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDOALMEIDARODRIGUES&layout=compact&show_icons=true&theme=gruvbox&langs_count=8&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDOALMEIDARODRIGUES&layout=compact&show_icons=true&theme=dracula&langs_count=8&card_width=320" />
 </a>
 
 <!--

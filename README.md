@@ -19,7 +19,7 @@
   ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### JS tools
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;  
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 
@@ -27,7 +27,7 @@
   ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### Linguagens e Tecnologias: Front-end
+### Front-end
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;

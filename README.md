@@ -18,6 +18,7 @@
   ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## Linguagens e Tecnologias: Front-end
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -36,4 +37,9 @@
   ![NeoVim](https://img.shields.io/badge/-NeoVim-0D1117?logo=neovim&style=for-the-badge)&nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?logo=intellijidea&style=for-the-badge)&nbsp;
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?logo=androidstudio&style=for-the-badge)&nbsp;
+
+
+<p align="center">
+  <img src="https://github.com/EDUARDOALMEIDARODRIGUES/EDUARDOALMEIDARODRIGUES/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
   

@@ -40,6 +40,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/EDUARDOALMEIDARODRIGUES/EDUARDOALMEIDARODRIGUES/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/EDUARDOALMEIDARODRIGUES/github-contribution-grid-snake-dark.svg/blong/output/github-contribution-grid-snake-dark.svg">
 </p>
   

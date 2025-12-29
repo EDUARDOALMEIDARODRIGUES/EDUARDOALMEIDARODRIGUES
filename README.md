@@ -1,41 +1,39 @@
 ## AGORA FALA ALGO QUE EU NÃO SEI...
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=120&section=header&fontSize=90" />
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&size=30&center=true&vCenter=true&width=1000&color=F73BB4&background=3131315F&random=true&lines=EU+NUNCA+GOSTEI+DE+VOC%C3%8A+EDU.+.+.;.+.+.+EU+SEI)](https://git.io/typing-svg)
+
 <h1 align="center">Programador Web</h1>
 
   Estudante de Desenvolvimento de Sistema, desejo dominar as tecnologias relacionadas a programação, atualmente estudo as principais tecnologia relacionadas a programação de site e desenvolvimento web. Futuramente desejo estudar tecnologias ralcionadas a desenvolvimento Mobile, programção App. No IFMS estudamos o back-end e front-end como, banco de dados, criação de paginas HTML e estilização CSS, trabalhando com framework de CSS.
 
-<h2>📝Linguagens e Tecnologias</h2>
-🧠 Que Tenho Entendimento
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EDUARDOALMEIDARODRIGUES&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-|TypeScript | JavaScript | HTML | CSS | React | tailwind | Bootstrap | GIT | JAVA |
-| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |  ------------- | ------------- |
-| <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="60px"> | <img src="imagem_2025-07-08_153833241-removebg-preview.png" width="60px"> | <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png" width="60px"> | <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="90px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="60px"> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60px"> |
+## Linguagens e Tecnologias: Back-end
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-📝Que gostaria de dominar e conhecer
-
-| PHP | Laravel | Spring boot | SQL / banco de Dados|
-| ------------- | ------------- | ------------- | ------------- |
-| <img src="https://www.brandlogopng.com/files/logo/php/php-language-logo-hd-png-image-download-baby-elephant-clipart-qs6r.png" width="80px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="60px"> | <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="60px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" width="120px">
-
-
-<a href="https://github.com/EDUARDOALMEIDARODRIGUES/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=EDUARDOALMEIDARODRIGUES&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/EDUARDOALMEIDARODRIGUES/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDOALMEIDARODRIGUES&layout=compact&show_icons=true&theme=dracula&langs_count=8&card_width=320" />
-</a>
-
-<!--
-**EDUARDOALMEIDARODRIGUES/EDUARDOALMEIDARODRIGUES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens e Tecnologias: Front-end
+  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+  ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=FF8800&textColor=0D1117)
+  
+## Ferramentas
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge)&nbsp;
+  ![Vim](https://img.shields.io/badge/-Vim-0D1117?logo=vim&style=for-the-badge)&nbsp;
+  ![NeoVim](https://img.shields.io/badge/-NeoVim-0D1117?logo=neovim&style=for-the-badge)&nbsp;
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?logo=intellijidea&style=for-the-badge)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?logo=androidstudio&style=for-the-badge)&nbsp;
+  

@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&size=30&center=true&vCenter=true&width=1000&color=F73BB4&background=3131315F&random=true&lines=EU+NUNCA+GOSTEI+DE+VOC%C3%8A+EDU.+.+.;.+.+.+EU+SEI)](https://git.io/typing-svg)
 
-<h1 align="center">Programador Web</h1>
+<h1 align="center">Programador</h1>
 
   Estudante de Desenvolvimento de Sistema, desejo dominar as tecnologias relacionadas a programação, atualmente estudo as principais tecnologia relacionadas a programação de site e desenvolvimento web. Futuramente desejo estudar tecnologias ralcionadas a desenvolvimento Mobile, programção App. No IFMS estudamos o back-end e front-end como, banco de dados, criação de paginas HTML e estilização CSS, trabalhando com framework de CSS.
 

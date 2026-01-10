@@ -11,8 +11,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EDUARDOALMEIDARODRIGUES&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=EDUARDOALMEIDARODRIGUES&theme=monokai&date_format=j%20M%5B%20Y%5D)
-
 ### Linguagens
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;

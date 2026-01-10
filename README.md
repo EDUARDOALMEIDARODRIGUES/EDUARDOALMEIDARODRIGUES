@@ -11,6 +11,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EDUARDOALMEIDARODRIGUES&theme=monokai&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p aling="right">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=EDUARDOALMEIDARODRIGUES&show_icons=true&theme=monokai&hide_border=true" alt="Simon GitHub Stats" height="150"/> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EDUARDOALMEIDARODRIGUES&layout=compact&theme=monokai&hide_border=true&langs_count=8" alt="Top Languages" height="150" /> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=EDUARDOALMEIDARODRIGUES&theme=monokai&hide_border=true" alt="GitHub Streak" height="150"/> 
   
 </p>

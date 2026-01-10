@@ -9,7 +9,14 @@
 
   Estudante de Desenvolvimento de Sistema, desejo dominar as tecnologias relacionadas a programação, atualmente estudo as principais tecnologia relacionadas a programação de site e desenvolvimento web. Futuramente desejo estudar tecnologias ralcionadas a desenvolvimento Mobile, programção App. No IFMS estudamos o back-end e front-end como, banco de dados, criação de paginas HTML e estilização CSS, trabalhando com framework de CSS.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EDUARDOALMEIDARODRIGUES&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EDUARDOALMEIDARODRIGUES&theme=monokai&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EDUARDOALMEIDARODRIGUES&show_icons=true&theme=monokai&hide_border=true" alt="Simon GitHub Stats" height="150" width="370"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EDUARDOALMEIDARODRIGUES&layout=compact&theme=monokai&hide_border=true&langs_count=8" alt="Top Languages" height="150" width="250"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=EDUARDOALMEIDARODRIGUES&theme=monokai&hide_border=true" alt="GitHub Streak" height="150"/>
+  
+</p>
 
 ### Linguagens
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;

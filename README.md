@@ -1,9 +1,9 @@
-## AGORA FALA ALGO QUE EU NÃO SEI...
+## ENTÃO DIZ ALGO QUE EU NÃO SEI...
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=120&section=header&fontSize=90" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&size=30&center=true&vCenter=true&width=1000&color=F73BB4&background=3131315F&random=true&lines=EU+NUNCA+GOSTEI+DE+VOC%C3%8A+EDU.+.+.;.+.+.+EU+SEI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&size=30&center=true&vCenter=true&width=1000&color=F73BB4&background=3131315F&random=true&lines=EDU.+.+.;.+.+.+ARDO)](https://git.io/typing-svg)
 
 <h1 align="center">Programador</h1>
 

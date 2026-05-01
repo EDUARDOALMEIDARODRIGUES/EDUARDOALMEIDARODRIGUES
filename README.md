@@ -42,6 +42,8 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
   ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge)&nbsp;
   ![Vim](https://img.shields.io/badge/-Vim-0D1117?logo=vim&style=for-the-badge)&nbsp;
   ![NeoVim](https://img.shields.io/badge/-NeoVim-0D1117?logo=neovim&style=for-the-badge)&nbsp;

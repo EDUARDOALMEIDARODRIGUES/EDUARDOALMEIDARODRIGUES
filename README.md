@@ -37,18 +37,21 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
   ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
   ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=FF8800&textColor=0D1117)
-  
-### Ferramentas
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
-  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+
+### Editores de codigo
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge)&nbsp;
   ![Vim](https://img.shields.io/badge/-Vim-0D1117?logo=vim&style=for-the-badge)&nbsp;
   ![NeoVim](https://img.shields.io/badge/-NeoVim-0D1117?logo=neovim&style=for-the-badge)&nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?logo=intellijidea&style=for-the-badge)&nbsp;
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?logo=androidstudio&style=for-the-badge)&nbsp;
+### SO
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge)&nbsp;
+
+### Outras Ferramentas
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <p align="center">
